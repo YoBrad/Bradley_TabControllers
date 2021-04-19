@@ -13,6 +13,7 @@
 		CEFFD113262DB00E0097B9CA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEFFD111262DB00E0097B9CA /* Main.storyboard */; };
 		CEFFD115262DB0100097B9CA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEFFD114262DB0100097B9CA /* Assets.xcassets */; };
 		CEFFD118262DB0100097B9CA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEFFD116262DB0100097B9CA /* LaunchScreen.storyboard */; };
+		CEFFD125262DB9780097B9CA /* 2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEFFD124262DB9780097B9CA /* 2ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CEFFD114262DB0100097B9CA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CEFFD117262DB0100097B9CA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CEFFD119262DB0100097B9CA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CEFFD124262DB9780097B9CA /* 2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				CEFFD10B262DB00E0097B9CA /* AppDelegate.swift */,
 				CEFFD10D262DB00E0097B9CA /* SceneDelegate.swift */,
 				CEFFD10F262DB00E0097B9CA /* ViewController.swift */,
+				CEFFD124262DB9780097B9CA /* 2ViewController.swift */,
 				CEFFD111262DB00E0097B9CA /* Main.storyboard */,
 				CEFFD114262DB0100097B9CA /* Assets.xcassets */,
 				CEFFD116262DB0100097B9CA /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CEFFD110262DB00E0097B9CA /* ViewController.swift in Sources */,
+				CEFFD125262DB9780097B9CA /* 2ViewController.swift in Sources */,
 				CEFFD10C262DB00E0097B9CA /* AppDelegate.swift in Sources */,
 				CEFFD10E262DB00E0097B9CA /* SceneDelegate.swift in Sources */,
 			);
